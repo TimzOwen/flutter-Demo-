@@ -1,10 +1,8 @@
-# hello
+# Flutter getting started.
 
-A new Flutter project.
+flutter demo for girlsGetGeeky Nakuru as a android tech speaker
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
